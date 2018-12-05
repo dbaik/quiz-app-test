@@ -1,0 +1,16 @@
+.progress {
+  height: 5px;
+  border-radius: 0;
+}
+
+.navbar-light {
+  background: var(--white);
+}
+
+.points-count {
+  color: #a07800;
+}
+
+.header-main {
+  background: var(--white);
+}

@@ -1,0 +1,21 @@
+.img-wrap {
+  position: relative;
+  min-height: 170px;
+}
+
+.question-number {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  background: rgba(255, 193, 7, 0.7);
+  color: var(--white);
+}
+
+.card {
+  border: 0;
+}

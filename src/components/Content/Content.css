@@ -1,0 +1,13 @@
+.answer-options {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  margin-bottom: 0;
+}
+
+.content-body {
+  height: calc( 100vh - 89px);
+  overflow: hidden;
+  overflow-y: auto;
+}
